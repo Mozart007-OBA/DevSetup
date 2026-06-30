@@ -1,2 +1,72 @@
-# DevSetup
-My first development environment as a full-stack web developer at Akieni
+# DevSetup - Mon Premier Environnement en tant que Dev Web Fullstak chez Akieni
+
+**Ce repository contient la configuration de mon environnement de développement pour le parcours Fullstack d'Akieni Academy.**
+
+### Objectif du projet
+
+**Mettre en place et documenter les outils essentiels pour le développement web.**
+
+### Outils installés
+
+- **VS Code** + extensions recommandées
+- **Git** + configuration globale
+- **Node.js** (LTS)
+- **Chocolatey** (gestionnaire de paquets Windows)
+
+### Structure du projet
+
+**DevSetup/**
+
+**├── README.md**
+
+**├── notes/**
+
+**│   ├── terminal.md**
+
+**│   ├── git.md**
+
+**│   └── vscode.md**
+
+**└── .gitignore**
+
+### Commandes utiles
+
+### Vérifier les versions
+
+**git --version**
+
+**node --version**
+
+**npm --version**
+
+**code --version**
+
+### Configuration Git
+
+**$ git config --global user.name "Sinso Païder OBA IBARA"**
+
+**$ git config --global user.email "Psincereoba@gmail.com"**
+
+**$ git config --global --list**
+
+**user.name=Sinso Païder OBA IBARA**
+
+**user.email=Psincereoba@gmail.com**
+
+### Extensions VS Code recommandées
+
+- **ESLint**
+- **Prettier**
+- **Live Server**
+- **GitLens**
+- **Thunder Client**
+
+### Ressources utiles
+
+**- [Documentation Git](https://git-scm.com/doc)**
+
+**- [Guide VS Code](https://code.visualstudio.com/docs)**
+
+**- [Node.js](https://nodejs.org/)**
+
+**- [Akieni Academy](https://akieni.academy)**
