@@ -15,51 +15,46 @@
 
 ### Structure du projet
 
-**DevSetup/**
-
-**├── README.md**
-
-**├── notes/**
-
-**│   ├── terminal.md**
-
-**│   ├── git.md**
-
-**│   └── vscode.md**
-
-**└── .gitignore**
+```
+DevSetup/
+├── README.md
+├── notes/
+│   ├── terminal.md
+│   ├── git.md
+│   └── vscode.md
+└── .gitignore
+```
 
 ### Commandes utiles
 
 ### Vérifier les versions
 
-**git --version**
-
-**node --version**
-
-**npm --version**
-
-**code --version**
+```
+git --version
+node --version
+npm --version
+code --version
+```
 
 ### Configuration Git
 
-**$ git config --global user.name "Sinso Païder OBA IBARA"**
+```
+$ git config --global user.name "nom-utilisateur"
+$ git config --global user.email "mail-utilisateur"
+```
 
-**$ git config --global user.email "Psincereoba@gmail.com"**
+### Verification des paramètres
 
-**$ git config --global --list**
-
-**user.name=Sinso Païder OBA IBARA**
-
-**user.email=Psincereoba@gmail.com**
+```
+$ git config --global --list
+```
 
 ### Extensions VS Code recommandées
 
 - **ESLint**
 - **Prettier**
 - **Live Server**
-- **GitLens**
-- **Thunder Client**
+
 
 ### Ressources utiles
 
@@ -69,4 +64,4 @@
 
 **- [Node.js](https://nodejs.org/)**
 
-**- [Akieni Academy](https://akieni.academy)**
+**- [Akieni Academy](https://www.akieniacademy.com)**
